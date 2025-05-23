@@ -26,7 +26,7 @@ Tudo com aplicação de tags corporativas, organização por ambiente (DEV, QAS,
 
 ## 📁 Estrutura
 
-- `script.ps1`: Script principal de automação.
+- `FastTrackAutomation.ps1`: Script principal de automação.
 - `.env`: Arquivo com IDs das subscriptions (não incluído no repositório por segurança).
 - `README.md`: Este arquivo.
 
