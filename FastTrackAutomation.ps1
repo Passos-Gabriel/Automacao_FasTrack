@@ -77,7 +77,7 @@ $subs = @{
 }
 
 $networkSubs = $subs
-
+$environments = @("DEV", "QAS", "PRD")
 foreach ($env in $environments) {
     Write-Host "`n--- Criando recursos para o ambiente: $env ---`n"
 
